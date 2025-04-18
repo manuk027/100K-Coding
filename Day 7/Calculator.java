@@ -1,3 +1,5 @@
+// Day 7 - Assignment 2
+
 import java.util.Scanner;
 public class Calculator {
 	public static void main(String[] args) {
