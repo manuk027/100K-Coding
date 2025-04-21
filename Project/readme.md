@@ -1,3 +1,5 @@
+
+
 # 📱 Java Swing Calculator
 
 ## 📜 Project Overview
@@ -14,6 +16,13 @@ This is a simple **GUI Calculator** application built using **Java Swing**. The 
 - Automatically displays integer if result has no decimals
 
 This project is ideal for beginners learning Java GUI programming and event handling with `ActionListener`.
+
+---
+
+## 🔧 Languages Used
+
+- Java
+- Java Swing (GUI Toolkit)
 
 ---
 
